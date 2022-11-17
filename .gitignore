@@ -1,0 +1,14 @@
+*.o
+*.a
+coverage/*
+vgcore*
+unit_tests
+.vscode
+*.gc*
+*.rb
+*.html
+map.txt
+solver/solver
+my_solver
+generator/generator
+my_generator
